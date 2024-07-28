@@ -1,0 +1,17 @@
+# 	Explain different sorting algorithms (Bubble Sort, Insertion Sort, Quick Sort, Merge Sort).
+
+# Bubble Sort:
+Algorithm: Bubble Sort works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items, and swapping them if they are in the wrong order. This process is repeated until the list is sorted.
+Efficiency: It has a time complexity of O(n^2) in the average and worst cases, making it suitable for small datasets but inefficient for large ones.
+
+# Insertion Sort:
+Algorithm: Insertion Sort builds the final sorted array (or list) one item at a time. It iterates through each element, inserting it into its correct position relative to the already sorted part of the list.
+Efficiency: Its average and worst-case time complexity is O(n^2), but it has an advantage over Bubble Sort with better performance on small datasets and nearly sorted lists.
+
+# Quick Sort:
+Algorithm: Quick Sort is a divide-and-conquer algorithm. It picks a pivot element and partitions the array around the pivot, such that elements smaller than the pivot are on its left and larger elements are on its right. It then recursively sorts the sub-arrays.
+Efficiency: On average, Quick Sort has a time complexity of O(n log n). However, in the worst case (rare, but possible), it can degrade to O(n^2) if the pivot selection is poor, making it less predictable than Merge Sort for very large datasets.
+
+# Merge Sort:
+Algorithm: Merge Sort also uses a divide-and-conquer strategy. It divides the array into two halves, recursively sorts each half, and then merges the sorted halves back together.
+Efficiency: Merge Sort has a consistent time complexity of O(n log n) in all cases (average, worst, and best), making it efficient for large datasets. However, it requires additional space proportional to the size of the input for storing the temporary merged arrays.

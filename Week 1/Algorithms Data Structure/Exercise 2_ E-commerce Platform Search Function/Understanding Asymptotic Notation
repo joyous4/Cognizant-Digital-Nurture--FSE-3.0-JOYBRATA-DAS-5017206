@@ -1,0 +1,31 @@
+Big O notation is a mathematical notation used to describe the upper bound or worst-case scenario of an algorithm's time complexity. It characterizes the efficiency of an algorithm in terms of the time or space it requires as a function of the input size.
+
+Purpose: It helps in understanding how the performance of an algorithm scales with increasing input sizes, allowing developers to predict and optimize performance.
+General Form: 
+O(f(n)), where 
+f(n) is a function representing the growth rate of the algorithm's running time or space usage as the input size n grows.
+
+How It Helps in Analyzing Algorithms:
+
+Comparative Analysis: Allows comparison of different algorithms to determine which one is more efficient for a given problem.
+Scalability Assessment: Helps in predicting how an algorithm will perform as the input size grows, facilitating the design of scalable systems.
+Performance Optimization: Identifies bottlenecks and inefficiencies, guiding improvements to enhance the algorithm’s performance.
+
+Search Operation Examples:
+Linear Search:
+
+Best Case:  O(1)
+Average Case:  O(n) 
+Worst Case:  O(n) 
+
+Binary Search (on a sorted array):
+
+Best Case: O(1) 
+Average Case:  O(logn)
+Worst Case:  O(logn)
+
+Hash Table Search:
+
+Best Case: O(1)
+Average Case: O(1) 
+Worst Case: O(n)

@@ -1,0 +1,9 @@
+Understand Search Algorithms
+Linear Search:
+Description: Linear search is a simple search algorithm that checks every element in the list until the target element is found or the list ends.
+Time Complexity: O(n), where n is the number of elements in the list.
+Use Case: Suitable for small or unsorted lists.
+Binary Search:
+Description: Binary search is an efficient algorithm for finding an item in a sorted list by repeatedly dividing the search interval in half.
+Time Complexity: O(log n), where n is the number of elements in the list.
+Use Case: Suitable for large, sorted lists.

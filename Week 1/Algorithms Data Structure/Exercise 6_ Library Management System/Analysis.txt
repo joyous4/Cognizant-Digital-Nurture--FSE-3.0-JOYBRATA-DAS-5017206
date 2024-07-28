@@ -1,0 +1,7 @@
+Analysis
+Time Complexity
+Linear Search: O(n) - Searches each element until it finds the target.
+Binary Search: O(log n) - Efficiently narrows down the search range by half each time.
+When to Use Each Algorithm:
+Linear Search: Suitable for small or unsorted lists where the overhead of sorting is not justified.
+Binary Search: Suitable for large, sorted lists where the initial sorting overhead is justified by the faster search time.

@@ -1,0 +1,11 @@
+o	Explain how arrays are represented in memory and their advantages.
+
+The representation of an array can be defined by its declaration. A declaration means allocating memory for an array of a given size.
+Arrays can be initialized at the time of declaration or later using a loop or individually.
+Example:
+int numbers[5] = {1, 2, 3, 4, 5};
+
+Arrays help to increase code optimization.
+It helps in ordering and indexing data structure to store a particular type of element.
+It can also store variables and objects of class.
+Every element of an array is held in a definite memory location.

@@ -1,0 +1,4 @@
+Optimizing the Recursive Solution
+Recursive solutions can lead to excessive computation and stack overflow issues if not optimized. Two common optimization techniques are:
+Memoization: Store the results of expensive function calls and reuse them when the same inputs occur again.
+Iterative Approach: Convert the recursion to an iterative solution to save stack space.

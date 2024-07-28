@@ -1,0 +1,16 @@
+o	Analyze the time complexity of each operation (add, search, traverse, delete).
+
+Operation	     Average Time Complexity	   Worst-Case Time Complexity	           Explanation
+Add (end)	          O(1)	                       O(n)	                        Constant time for appending; resizing may take O(n).
+Add (middle)	      O(n)	                       O(n)	                        Requires shifting elements.
+Search	            O(n)	                       O(n)	                        Linear search in unsorted array.
+Binary Search	      O(log n)	                   O(log n)	                    Requires sorted array.
+Traverse	          O(n)	                       O(n)	                        Visiting each element once.
+Delete (middle)	    O(n)	                       O(n)                       	Requires shifting elements.
+Delete (end)	      O(1)	                       O(1)                       	Simple removal, no shifting needed.
+
+o	Discuss the limitations of arrays and when to use them.
+
+Arrays are static and cannot be dynamically re-sized. 
+Once an array is declared, its size remains constant throughout the program's lifetime. 
+This can lead to wasted memory if the array size is larger than what is needed or limited space if it needs to be bigger.

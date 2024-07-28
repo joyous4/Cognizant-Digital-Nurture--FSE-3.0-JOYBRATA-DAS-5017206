@@ -1,0 +1,19 @@
+Singly Linked List:
+Structure: A singly linked list consists of nodes where each node contains a data field and a reference (or link) to the next node in the sequence.
+Operations:
+Insertion: Adding a new node to the beginning, middle, or end.
+Deletion: Removing a node from the list.
+Traversal: Accessing each node in sequence from the head to the end.
+Characteristics:
+One-way traversal.
+Simplicity and lower memory usage compared to doubly linked lists.
+Doubly Linked List:
+Structure: Each node contains a data field, a reference to the next node, and a reference to the previous node.
+Operations:
+Insertion: Adding a new node to the beginning, middle, or end.
+Deletion: Removing a node from the list.
+Traversal: Can be traversed in both directions (forward and backward).
+Characteristics:
+Two-way traversal.
+More complex than singly linked lists.
+Requires more memory due to the additional reference.

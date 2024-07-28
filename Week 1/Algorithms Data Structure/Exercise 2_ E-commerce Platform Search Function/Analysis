@@ -1,0 +1,12 @@
+Comparing time complexities of linear search and binary search
+Linear Search:
+
+Best Case:  O(1)
+Average Case:  O(n) 
+Worst Case:  O(n) 
+
+Binary Search (on a sorted array):
+
+Best Case: O(1) 
+Average Case:  O(logn)
+Worst Case:  O(logn)

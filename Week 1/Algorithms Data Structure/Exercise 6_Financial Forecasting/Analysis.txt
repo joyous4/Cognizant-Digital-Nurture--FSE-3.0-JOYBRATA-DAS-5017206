@@ -1,0 +1,24 @@
+Understand Recursive Algorithms
+Concept of Recursion
+Recursion is a technique in programming where a function calls itself directly or indirectly to solve a problem. It simplifies certain problems by breaking them down into smaller, more manageable sub-problems that resemble the original problem. Each recursive call processes a smaller portion of the problem until it reaches a base case, which is a condition that stops further recursion.
+
+Benefits of Recursion
+Simplifies Complex Problems: Makes code easier to understand and maintain by solving problems in a more natural, straightforward manner.
+Divide and Conquer: Breaks down a problem into smaller, easier-to-solve sub-problems.
+Backtracking: Useful in scenarios like searching and sorting, where multiple paths or solutions need to be explored.
+
+
+Setup
+Method to Calculate Future Value Using a Recursive Approach
+Let's create a method to predict the future value based on past data and growth rates. The recursive formula we'll use is:
+
+Future Value=Present Value×(1+Growth Rate)𝑛
+ 
+where n is the number of periods into the future.
+
+
+Analysis
+Time Complexity
+The time complexity of this recursive algorithm is 
+O(n), where n is the number of periods. This is because each recursive call reduces the number of periods by one until it reaches the base case.
+

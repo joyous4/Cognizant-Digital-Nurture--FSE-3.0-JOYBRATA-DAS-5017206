@@ -1,0 +1,25 @@
+1.	Understand the Problem:
+o	Explain why data structures and algorithms are essential in handling large inventories.
+o	Discuss the types of data structures suitable for this problem.
+
+
+Data structures and algorithms are essential in handling large inventories for several reasons:
+
+Efficiency in Data Storage:
+
+Optimal Use of Memory: Efficient data structures such as HashMaps, Trees, or Arrays help minimize memory usage by storing only necessary information in a compact form.
+Scalability: They allow the system to scale seamlessly as the inventory grows, managing larger volumes of data without significant performance degradation.
+
+Scalability and Performance:
+
+Handling Large Datasets: Algorithms and data structures are designed to handle large datasets efficiently, ensuring that the inventory system can manage millions of products without significant performance hits.
+Parallel Processing: Advanced data structures and algorithms support parallel processing and distributed computing, allowing the inventory system to leverage multi-core processors and distributed systems to handle large inventories efficiently.
+
+Type of Data Sturcture Suitable:-
+Types of Data Structures Suitable:
+
+HashMap
+ArrayList
+LinkedList
+
+I have used HashMap for the problem
