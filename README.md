@@ -1,4 +1,4 @@
-[# Cognizant Digital Nurture 3.0 - JAVA FSE
+# Cognizant Digital Nurture 3.0 - JAVA FSE
 
 Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) repository. This repository contains all the weekly assignments for the deep-skilling program aimed at enhancing your Java FSE capabilities.
 
