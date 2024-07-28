@@ -24,8 +24,8 @@ This repository is a comprehensive collection of all the assignments and project
 
 
 ## Weekly Assignment Answers
-- [Week 1 Algorithms and Data Structures](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%201/Algorithms%20Data%20Structure)
-- [Week 1 Design Patterns and Principles](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%201/Design%20Patterns%20and%20Principles)
+- [Week 1 Algorithms and Data Structures](https://github.com/joyous4/Cognizant-Digital-Nurture--FSE-3.0-JOYBRATA-DAS-5017206/tree/main/Week%201/Algorithms%20Data%20Structure)
+- [Week 1 Design Patterns and Principles](https://github.com/joyous4/Cognizant-Digital-Nurture--FSE-3.0-JOYBRATA-DAS-5017206/tree/main/Week%201/week1_DesignPattern)
 
 
 ## Program Structure
