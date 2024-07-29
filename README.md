@@ -9,12 +9,12 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
   - [Algorithms and Data Structures](https://github.com/joyous4/Cognizant-Digital-Nurture--FSE-3.0-JOYBRATA-DAS-5017206/tree/main/Week%201/Algorithms%20Data%20Structure)
   - [Design Patterns and Principles](https://github.com/joyous4/Cognizant-Digital-Nurture--FSE-3.0-JOYBRATA-DAS-5017206/tree/main/Week%201/week1_DesignPattern)
 - [Week 2](#week-2)
-  - [PL/SQL](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%202_PLSQL.docx)
-  - [Spring Core and Maven](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%202_Spring%20Core_Maven.docx)
+  - [PL/SQL]()
+  - [Spring Core and Maven]()
 - [Week 3](#week-3)
-  - [Spring Data JPA and Hibernate](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%203_Spring%20Data%20JPA%20and%20Hibernate.docx)
+  - [Spring Data JPA and Hibernate]()
 - [Week 4 & 5](#week-4--5)
-  - [Spring REST](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/blob/main/Assignment/Week%204%2C%205_Spring%20REST.docx)
+  - [Spring REST]()
   
 ## Overview
 This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning. 
