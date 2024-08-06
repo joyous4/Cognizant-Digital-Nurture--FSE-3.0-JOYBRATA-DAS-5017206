@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+
+		<!-- bean definitions here -->
+		<bean class="com.library.repository.BookRepository" name="Repo">
+			<property name="RepoID"><value>1236</value></property>
+			<property name="RepoName"><value>New Repository</value></property>
+		</bean>
+		<bean class="com.library.service.BookService" name="Servc">
+			<property name="BookID"><value>16</value></property>
+			<property name="BookName"><value> The Horizon</value></property>
+		</bean>
+</beans>
