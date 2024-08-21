@@ -18,9 +18,5 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
 - [Week 5](#week-4--5)
   - [Spring REST]()
 
-### Week 4 & 5
-- **Spring REST**
-  - Topics: RESTful web services with Spring Boot, HTTP methods, JSON data exchange
-  - Exercises: Developing REST APIs and handling client-server interactions
 
 
